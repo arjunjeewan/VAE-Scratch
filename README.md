@@ -2,9 +2,11 @@
 
 This project implements a Variational Autoencoder (VAE) from scratch using PyTorch and applies it to the MNIST dataset. VAEs are generative models that learn to encode data into a latent space and can generate new data points from this space.
 
-To run this project, download the repository and run the following command in your terminal
+To run this project, clone the repository and run the following command in your terminal
 
 ``` python train.py```
+
+You may change configurations in the ``config.py`` to optimize performance on your system.
 
 
 Here are a few examples of the generated outputs of digits.
