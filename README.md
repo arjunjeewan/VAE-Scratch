@@ -16,6 +16,9 @@ Here are a few examples of the generated outputs of digits.
 ![image](https://github.com/user-attachments/assets/271b386c-18c4-4a69-8593-1639343007d2)
 
 
+![image](https://github.com/user-attachments/assets/55f4d6c0-b2d1-41c8-a63a-f0a1c4d66a8b)
+
+
 ![image](https://github.com/user-attachments/assets/dc4221f2-7006-4e33-96dc-540f922ff23b)
 
 
